@@ -2,3 +2,5 @@ fmeResource:
   segmentRef: test_gitsync
   environment: Stg-Awesome pro
   status: active
+  keys:
+  - adrian.cejas@harness.io
