@@ -1,0 +1,4 @@
+fmeResource:
+  segmentRef: test_gitsync
+  environment: Stg-Awesome pro
+  status: active
