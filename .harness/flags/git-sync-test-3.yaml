@@ -1,0 +1,4 @@
+fmeResource:
+  name: git_sync_test_3
+  trafficType: user
+  rolloutStatus: Pre-Production
