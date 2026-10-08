@@ -1,4 +1,5 @@
 fmeResource:
   name: test_date
+  description: test
   trafficType: user
   rolloutStatus: Pre-Production
