@@ -1,0 +1,5 @@
+fmeResource:
+  name: test_old
+  description: asdasd
+  trafficType: user
+  rolloutStatus: Pre-Production
